@@ -3,6 +3,7 @@
 This module defines a square based on empty module
 """
 
+
 class Square:
     """
     This class defines a square by its size.
